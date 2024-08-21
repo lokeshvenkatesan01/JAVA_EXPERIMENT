@@ -3,9 +3,7 @@ public class weekend {
     public static void main(String[] args)throws Exception {
         Scanner sc=new Scanner(System.in);
       
-        while(true){
-
-        
+        while(true){        
         System.out.println(" ENTER THE VALUE 1.SUNDAY\n2.MONDAY \n3.TUESDAY \n4.WEDNESDAY \n5.THURSDAY \n6.FRIDAY \n7.SATURDAY ");
         int choice=sc.nextInt();
         switch (choice) {
