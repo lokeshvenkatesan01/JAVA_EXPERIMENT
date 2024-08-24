@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class zomoto {
+public class Appzomoto{
 
     public static void main(String[] args)throws Exception {
         Scanner sc= new Scanner(System.in);

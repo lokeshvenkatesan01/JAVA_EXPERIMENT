@@ -1275,13 +1275,11 @@ public class zomoto {
                 break;
         
             default:
-                    System.out.println("\tINVALID INPUT");
+        
+            System.out.println("\tINVALID INPUT");
                 break;
         }
-        sc.close();
-
-
-        
+        sc.close();        
     
     
 }
