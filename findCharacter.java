@@ -25,7 +25,9 @@ public class findCharacter {
         {
                 System.out.println("\t"+ch+s4);
         }
+        sc.close();
     }
+        
     }
     }
     

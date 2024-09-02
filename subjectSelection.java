@@ -28,6 +28,7 @@ public class subjectSelection{
 
             
         }
+        sc.close();
 
     }
 }

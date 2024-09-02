@@ -1,6 +1,8 @@
 import java.util.*;
 
 public class sumOfDigits{
+
+    //THE SUM AND PRODUCT  OF THE NUMBER
     static Scanner sc=new Scanner(System.in);
     public static void main(String[] args) {
         System.out.print("ENTER THE NUMBER : ");
@@ -13,7 +15,7 @@ public class sumOfDigits{
             
             rem=num % 10; //  => REM = NUM % 10             |_ WE CAN ALSO GIVE => SUM + = NUM % 10;
             sum+=rem;     //  => SUM = SUM + REM 
-            product*=rem;           |
+            product*=rem;           
             num/= 10;       // => NUM = NUM / 10
            
                        

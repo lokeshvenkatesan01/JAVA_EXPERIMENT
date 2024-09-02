@@ -11,5 +11,6 @@ public class Nto1 {
         System.out.println(n);
         n--;
        }
+       sc.close();
     }
 }

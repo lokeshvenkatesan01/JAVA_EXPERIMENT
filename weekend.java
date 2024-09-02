@@ -54,8 +54,9 @@ public class weekend {
                 break;
         }
         
-                    
+        sc.close();         
         }
+       
     }
 
 }

@@ -18,7 +18,9 @@ public class otp {
         }
         System.out.println();
         Thread.sleep(1000); 
+        sc.close();
     }
+    
 
     }
 
